@@ -22,6 +22,7 @@ download, compile and run, in module main file to compile main-1.0-SNAPSHOT-jar-
 
 ## Code Examples
 private Customer customerWhoPaidMostInCategory(Category cat) {
+
                         return customersWithProducts.entrySet()
                                 .stream()
                                 .collect(Collectors.toMap(
