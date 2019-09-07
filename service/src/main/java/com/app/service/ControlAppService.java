@@ -8,7 +8,7 @@ import com.app.utility.ScreenManager;
 public class ControlAppService {
 
     private final DataManager dataManager = new DataManager();
-    private final ShoppingService shoppingService = new ShoppingService("App03jsonFile01.json", "App03jsonFile02.json");
+    private final ShoppingService shoppingService = new ShoppingService("TestFile01.json", "TestFile02.json");
 
     public void runApp() {
         do {
