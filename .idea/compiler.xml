@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="exception" />
+        <module name="service" />
+        <module name="model" />
+        <module name="utility" />
+        <module name="main" />
+        <module name="enums" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

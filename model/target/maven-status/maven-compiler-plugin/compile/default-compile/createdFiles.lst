@@ -1,0 +1,12 @@
+com\app\model\valid\ProductValidatorImpl.class
+com\app\model\valid\generic\Validator.class
+com\app\model\valid\CustomerValidatorImpl.class
+com\app\model\CustomerWithProducts.class
+com\app\model\CustomerWithProductsFile.class
+com\app\model\Product.class
+com\app\model\Customer.class
+com\app\model\valid\generic\AbstractValidator.class
+com\app\model\Customer$CustomerBuilder.class
+com\app\model\CustomerWithProducts$CustomerWithProductsBuilder.class
+com\app\model\Product$ProductBuilder.class
+com\app\model\CustomerWithProductsFile$CustomerWithProductsFileBuilder.class

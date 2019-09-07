@@ -1,0 +1,6 @@
+com\app\utility\ShoppingJsonConverter.class
+com\app\utility\JsonConverter.class
+com\app\utility\FileTxtOperations.class
+com\app\utility\ProductGenerator.class
+com\app\utility\CustomerGenerator.class
+com\app\utility\ScreenManager.class
